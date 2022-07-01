@@ -9,10 +9,10 @@ inoremap {<CR> {<CR>}<Esc>O
 inoremap {{ {
 inoremap {} {}
 
-autocmd filetype cpp nnoremap <F9> :w <bar> !g++ -std=c++14 % -o %:r -Wl,--stack,268435456<CR>
-autocmd filetype cpp nnoremap <F10> :w <bar> !g++ -std=c++11 -O2 -Wall % -o %:r && start cmd /k %:r.exe <CR>cmd<CR>
+autocmd filetype cpp nnoremap <F5> :w <bar> !g++ -std=c++14 % -o %:r -Wl,--stack,268435456<CR>
+autocmd filetype cpp nnoremap <F6> :w <bar> !g++ -std=c++11 -O2 -Wall % -o %:r && start cmd /k %:r.exe <CR>cmd<CR>
 autocmd filetype cpp nnoremap <C-C> :s/^\(\s*\)/\1\/\/<CR> :s/^\(\s*\)\/\/\/\//\1<CR> $
-autocmd filetype cpp nnoremap <F5> :%y+<CR>
+autocmd filetype cpp nnoremap <F7> :%y+<CR>
 
 set termguicolors
 set background=dark
