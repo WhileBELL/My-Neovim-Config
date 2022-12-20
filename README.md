@@ -13,3 +13,7 @@ remap set from default
 | Shortcut          | Mode          | Description                                                              |
 |-------------------|---------------|--------------------------------------------------------------------------|
 | `<leader>ex`      | Normal        | ex                                                                       |
+
+
+# Plugin
+
