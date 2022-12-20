@@ -8,7 +8,7 @@ clone this repo into your nvim floder.
 
 # Keymapping
 
-My remap set from default
+remap set from default
 
 <table>
   <tr>
