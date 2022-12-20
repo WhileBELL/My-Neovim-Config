@@ -10,13 +10,11 @@ clone this repo into your nvim floder.
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Action</th>
+    <th>Mappings</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
-    <td>Germany</td>
   </tr>
 </table>
