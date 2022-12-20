@@ -1,19 +1,31 @@
-# My-Neovim-Config
+## My-Neovim-Config
 
-this my nvim config. can be used as an example to customize your nvim.
+this nvim config. can be used as an example to customize your nvim.
 
-# Install
+## Install
 
-clone this repo into your nvim floder.
+first you need to have a <a href="https://www.mingw-w64.org/downloads/#cygwin">mingw</a> then copy this code and run in your terminal
 
-# Keymapping
+> Windows Powershell Installation
+
+```shell
+git clone https://github.com/WhileBELL/My-Neovim-Config.git $HOME\AppData\Local\nvim --depth 1 && nvim
+```
+
+## Keymapping
 
 remap set from default
 
 | Shortcut          | Mode          | Description                                                              |
 |-------------------|---------------|--------------------------------------------------------------------------|
 | `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
+| `<leader>ex`      | Normal        | ex                                                                       |
 
-
-# Plugin
+## Plugin
 
