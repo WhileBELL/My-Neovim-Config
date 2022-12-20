@@ -41,13 +41,16 @@ vim.keymap.set("n", "<leader>j", "<cmd>lprev<CR>zz")
 vim.keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
 vim.keymap.set("n", "<leader>x", "<cmd>!chmod +x %<CR>", { silent = true })
 
--- for compile & runcode
+-- compile & runcode 
 vim.keymap.set("n", "<leader>r", function() 
     if vim.bo.filetype == 'python' then
+        vim.cmd('w')
         vim.cmd("term python3 %")
     elseif vim.bo.filetype == 'c' or vim.bo.filetype == 'cpp' then
+        vim.cmd('w')
         vim.cmd("!make %:r")
     else
+        vim.cmd('w')
         print("ERROR DON'T HAVE COMPILE CODE IN THIS LANG")
     end
 end)
