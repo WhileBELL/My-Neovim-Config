@@ -10,13 +10,6 @@ clone this repo into your nvim floder.
 
 remap set from default
 
-<table>
-  <tr>
-    <th>Action</th>
-    <th>Mappings</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| Shortcut          | Mode          | Description                                                              |
+|-------------------|---------------|--------------------------------------------------------------------------|
+| `<leader>ex`      | Normal        | ex                                                                       |
