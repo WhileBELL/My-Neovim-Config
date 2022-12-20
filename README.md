@@ -16,7 +16,7 @@ remap set from default
     <th>Mappings</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
