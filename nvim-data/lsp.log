@@ -381,3 +381,6 @@
 [START][2022-12-23 12:09:12] LSP logging initiated
 [WARN][2022-12-23 12:09:12] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/diagnostic/refresh"
 [WARN][2022-12-23 12:09:12] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/diagnostic/refresh"
+[START][2022-12-23 15:37:53] LSP logging initiated
+[WARN][2022-12-23 15:37:53] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/diagnostic/refresh"
+[WARN][2022-12-23 15:37:54] .../lua/vim/lsp.lua:1072	"server_request: no handler found for"	"workspace/diagnostic/refresh"
