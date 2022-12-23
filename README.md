@@ -9,7 +9,7 @@ first you need to have a <a href="https://www.mingw-w64.org/downloads/#cygwin">m
 > Windows Powershell Installation
 
 ```shell
-git clone https://github.com/WhileBELL/My-Neovim-Config.git $HOME\AppData\Local\nvim --depth 1 && nvim
+git clone https://github.com/WhileBELL/My-Neovim-Config.git $HOME\AppData\Local --depth 1 && nvim
 ```
 
 ## Keymapping
