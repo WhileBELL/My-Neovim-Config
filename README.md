@@ -10,7 +10,7 @@ first you need to have a <a href="https://www.mingw-w64.org/downloads/#cygwin">m
 
 ```shell
 git clone https://github.com/WhileBELL/nvim.git $HOME\AppData\Local\nvim
-git clone https://github.com/WhileBELL/nvim-data.git $HOME\AppData\Local\nvim-data --depth 1 && nvim
+git clone https://github.com/WhileBELL/nvim-data.git $HOME\AppData\Local\nvim-data
 ```
 
 ## Keymapping
