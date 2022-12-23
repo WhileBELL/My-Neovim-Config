@@ -1,4 +1,0 @@
-[INFO  19/12/2565 23:59:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:119: Executing installer for Package(name=lua-language-server)
-[INFO  19/12/2565 23:59:26] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:151: Installation succeeded for Package(name=lua-language-server)
-[INFO  20/12/2565 9:15:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:119: Executing installer for Package(name=clangd)
-[INFO  20/12/2565 9:15:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:151: Installation succeeded for Package(name=clangd)
