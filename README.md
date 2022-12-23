@@ -4,13 +4,14 @@ this nvim config can be used as an example to customize your nvim.
 
 ## Install
 
-first you need to have a <a href="https://www.mingw-w64.org/downloads/#cygwin">mingw</a>, <a href="https://git-scm.com/downloads">git</a>, <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell 7</a> then copy this code and run in your terminal
+first you need to have a <a href="https://www.mingw-w64.org/downloads/#cygwin">nvim 0.8+</a>, <a href="https://www.mingw-w64.org/downloads/#cygwin">mingw</a>, <a href="https://git-scm.com/downloads">git</a>, <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell 7</a> then copy this code and run in your terminal
 
 > Windows Powershell Installation
 
 ```shell
 git clone https://github.com/WhileBELL/nvim.git $HOME\AppData\Local\nvim
 ```
+next you have to downloads <a href="https://github.com/neovim/neovim/releases">nvim-data</a> file and paste it on your ~\Appdata\Local\nvim-data
 
 ## Keymapping
 
