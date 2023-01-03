@@ -1,3 +1,7 @@
+## Introduction
+
+You need to have [git](https://git-scm.com/) , [mingw64](https://www.mingw-w64.org/) 
+
 ## Keymapping
 
 Remap set from default
@@ -19,7 +23,7 @@ Complie&Runcode
 
 | Shortcut          | Mode          | Description                                                              |
 |-------------------|---------------|--------------------------------------------------------------------------|
-| `<leader>r`       | Normal        | Complie pthon3,c,cpp code.                                               |
+| `<leader>r`       | Normal        | Complie python3,c,cpp code.                                               |
 
 Remap set from File&Git Manage
 
@@ -71,7 +75,7 @@ Open Previews
 - Lsp&Treesitter
 
     <a href="https://github.com/VonHeikemen/lsp-zero.nvim">VonHeikemen/lsp-zero.nvim</a> : The purpose of this plugin is to bundle all the "boilerplate code" necessary to have nvim-cmp (a popular completion engine) and the LSP client working together nicely. Additionally, with the help of mason.nvim, it can let you install language servers from inside neovim.<br>
-    <a href="https://github.com/onsails/lspkind.nvim">onsails/lspkind.nvim</a> : This tiny plugin adds vscode-like pictograms to neovim built-in lsp.
+    <a href="https://github.com/onsails/lspkind.nvim">onsails/lspkind.nvim</a> : This tiny plugin adds vscode-like pictograms to neovim built-in lsp.<br>
     <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter/nvim-treesitter</a> : The goal of nvim-treesitter is both to provide a simple and easy way to use the interface for tree-sitter in Neovim and to provide some basic functionality such as highlighting based on it.<br>
 
 - Previews Plugin
